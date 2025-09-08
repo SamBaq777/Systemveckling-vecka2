@@ -8,7 +8,7 @@
   
 - **Agil metodik** är mer flexibel och förändras under arbetets gång. Man jobbar i korta perioder, så man kan snabbt ändra om något inte funkar. Det är bra när man inte vet allt från början och behöver vara flexibel, som vid utveckling av appar eller webbsidor.
 
----
+--- (Detta la jag till via en branch)
 
 ## 2. Vad är ett Git-commit och varför är det viktigt?
 
