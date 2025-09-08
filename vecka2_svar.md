@@ -16,7 +16,7 @@
 
 Ett **Git-commit** är som att spara en version av koden. Du gör ett commit när du är klar med en ändring, så du kan gå tillbaka och se vad du har gjort om något går fel. Det är viktigt för att hålla reda på alla ändringar och för att kunna samarbeta med andra utan att förlora något.
 
----
+--- (Detta la jag till via en branch)
 
 ## 3. Vad innebär samarbete med GitHub? Vad är pull requests, branches och merge?
 
