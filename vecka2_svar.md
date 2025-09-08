@@ -26,4 +26,5 @@ Ett **Git-commit** är som att spara en version av koden. Du gör ett commit nä
 
 - När alla är nöjda med ändringarna, gör man en **merge** för att lägga till de nya funktionerna i huvudkoden. Detta gör det enkelt att arbeta tillsammans utan att riskera att förlora något.
 
----
+--- (Detta la jag till via en branch)
+
